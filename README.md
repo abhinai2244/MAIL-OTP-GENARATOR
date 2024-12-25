@@ -51,8 +51,8 @@ This Telegram bot provides user management features such as signup, login, OTP v
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/abhinai2244/MAIL-OTP-GENARATOR.git>
+ 
    ```
 
 2. **Edit the Script**:
@@ -60,7 +60,7 @@ This Telegram bot provides user management features such as signup, login, OTP v
 
 3. **Run the Script**:
    ```bash
-   python <script-name>.py
+   python3 otp github.py
    ```
 
 4. **Start Using the Bot**:
